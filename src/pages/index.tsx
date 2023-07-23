@@ -62,7 +62,7 @@ export default function Home() {
           >
             <div className='flex lg:flex-1'>
               <a href='#' className='-m-1.5 p-1.5'>
-                <h1 className='text-xl font-semibold'>Your Company</h1>
+                <h1 className='text-xl font-semibold'>Yourr Company</h1>
               </a>
             </div>
             <div className='flex lg:hidden'>
